@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Bomberman</string>
+
+    <string name="chip_text">%s %s</string>
+</resources>
